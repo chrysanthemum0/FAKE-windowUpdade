@@ -1,3 +1,3 @@
 # FAKE-windowUpdade 
 
-쉬자
+F11 꾹 한번 눌러주세요. 
